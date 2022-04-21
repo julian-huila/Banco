@@ -1,0 +1,14 @@
+C:\Users\CesarCuellar\Documents\Visual Studio 2013\Projects\Adsi1197173\AplicacionBanco\BancoSena\bin\BancoSena.dll.config
+C:\Users\CesarCuellar\Documents\Visual Studio 2013\Projects\Adsi1197173\AplicacionBanco\BancoSena\bin\BancoSena.dll
+C:\Users\CesarCuellar\Documents\Visual Studio 2013\Projects\Adsi1197173\AplicacionBanco\BancoSena\bin\BancoSena.pdb
+C:\Users\CesarCuellar\Documents\Visual Studio 2013\Projects\Adsi1197173\AplicacionBanco\BancoSena\obj\Debug\BancoSena.dll
+C:\Users\CesarCuellar\Documents\Visual Studio 2013\Projects\Adsi1197173\AplicacionBanco\BancoSena\obj\Debug\BancoSena.pdb
+C:\Users\CesarCuellar\Documents\Visual Studio 2013\Projects\Adsi1197173\AplicacionBanco\BancoSena\bin\Microsoft.SqlServer.Types.dll
+C:\Users\CesarCuellar\Documents\Visual Studio 2013\Projects\Adsi1197173\AplicacionBanco\BancoSena\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CesarCuellar\Documents\Visual Studio 2013\Projects\Adsi1197173\AplicacionBanco\BancoSena\obj\Debug\BancoSena.csprojAssemblyReference.cache
+C:\Users\CesarCuellar\Documents\Visual Studio 2013\Projects\Adsi1197173\AplicacionBanco\BancoSena\obj\Debug\BancoSena.csproj.CoreCompileInputs.cache
+C:\Users\CesarCuellar\Documents\Visual Studio 2013\Projects\Adsi1197173\AplicacionBanco\BancoSena\obj\Debug\BancoSena.csproj.CopyComplete
+C:\Users\User\Documents\Formato\AplicacionBanco\BancoSena\obj\Debug\BancoSena.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Formato\AplicacionBanco\BancoSena\obj\Debug\BancoSena.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Formato\AplicacionBanco\BancoSena\obj\Debug\BancoSena.dll
+C:\Users\User\Documents\Formato\AplicacionBanco\BancoSena\obj\Debug\BancoSena.pdb
